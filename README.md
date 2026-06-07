@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Store Rating Application
 ### Project Overview
 
@@ -90,6 +90,3 @@ CREATE TABLE ratings (
 ---
 
 
-=======
-# Store-Rating-Hub
->>>>>>> fa769d2cea39aeaccb6dc9413020ed3ee49b5e5e
