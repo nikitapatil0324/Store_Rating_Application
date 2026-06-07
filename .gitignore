@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Local Environment variables (contains database passwords, secrets)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Production builds
+dist/
+build/
+out/
+
+# IDE configs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
